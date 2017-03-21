@@ -9,8 +9,11 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 Description of Variables Inside The Data
 subject:	ID the subject who performed the activity for each window sample. Its range is from 1 to 30.
+
 activity:	Activity name
+
 featDomain: Time domain signal or frequency domain signal (Time or Freq)
+
 featInstrument:	Measuring instrument (Accelerometer or Gyroscope)
 featAcceleration:	Acceleration signal (Body or Gravity)
 featVariable:	Variable (Mean or SD)
